@@ -16,7 +16,7 @@ hide_st_style = """
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
 # Adding Background Image
-background_image_url = "https://builtin.com/sites/www.builtin.com/files/2022-06/ai-healthcare-examples.png"  # Replace with your image URL
+background_image_url = "https://builtin.com/sites/www.builtin.com/files/2022-06/ai-healthcare-examples.png"
 
 page_bg_img = f"""
 <style>
